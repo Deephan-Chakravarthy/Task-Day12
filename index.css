@@ -1,0 +1,14 @@
+.required{
+    color:red;
+}
+.checked {
+    color: orange;
+  }
+  body{
+    margin: 15px 15px 15px 15px;
+  }
+  td{
+    text-align: center;
+    width: 130px;
+    font-family:'Times New Roman', Times, serif;
+  }
